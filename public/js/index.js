@@ -12,12 +12,12 @@ socket.on('newMessage',(message) => {
   jQuery('#messages').append(li)
 
 });
-socket.emit('createMessage',{
-  from:'hank',
-  text:"Hi"
-},(data)=>{
-  console.log('Got it' , data)
-})
+// socket.emit('createMessage',{
+//   from:'hank',
+//   text:"Hi"
+// },(data)=>{
+//   console.log('Got it' , data)
+// })
 jQuery('#message-form').on('submit',function(e){
   e.preventDefault();
   socket.emit('createMessage',{
