@@ -21,9 +21,14 @@ The above project is a simple web chat app, which can be used to chat all whoeve
 - Docker
 - Docker-compose
 
-## Known Issues
+## Screenshots
 
-- Mobile Responsive
-- Validation when directly hitting the API
-- Security wise, easily hackable
-- Not Much of coding standards followed
+1. Login page
+![Login page](https://github.com/isandeep4/node-chat-app/screenshots/login-page.png?raw=true)
+
+2. Home page (default)
+![Home page (default)](https://github.com/isandeep4/node-chat-app/screenshots/home-blank.png?raw=true)
+
+4. Home page (chat active)
+![Home page (chat active)](https://github.com/isandeep4/node-chat-app/screenshots/chat-open.png?raw=true)
+
