@@ -24,11 +24,11 @@ The above project is a simple web chat app, which can be used to chat all whoeve
 ## Screenshots
 
 1. Login page
-![Login page](https://github.com/isandeep4/node-chat-app/screenshots/login-page.png?raw=true)
+![Login page](https://github.com/isandeep4/node-chat-app/login-page.png?raw=true)
 
 2. Home page (default)
-![Home page (default)](https://github.com/isandeep4/node-chat-app/screenshots/home-blank.png?raw=true)
+![Home page (default)](https://github.com/isandeep4/node-chat-app/home-blank.png?raw=true)
 
 4. Home page (chat active)
-![Home page (chat active)](https://github.com/isandeep4/node-chat-app/screenshots/chat-open.png?raw=true)
+![Home page (chat active)](https://github.com/isandeep4/node-chat-app/annotations-room.png?raw=true)
 
