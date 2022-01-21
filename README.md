@@ -29,6 +29,6 @@ The above project is a simple web chat app, which can be used to chat all whoeve
 2. Home page (default)
 ![Home page (default)](https://github.com/isandeep4/node-chat-app/blob/master/home-blank.png?raw=true)
 
-4. Home page (chat active)
+4. Home page (Annontaions-Room-Creation page active)
 ![Home page (chat active)](https://github.com/isandeep4/node-chat-app/blob/master/annotations-rooms-creation.png?raw=true)
 
