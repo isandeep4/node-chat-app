@@ -12,19 +12,10 @@ The above project is a simple web chat app, which can be used to chat all whoeve
 - Persistent storing of recent messages
 - Sign up
 
-## RUN
-
-Application is completely dockerized and can be run in single command
-```
-docker-compose up -d --build
-```
-Now Open browser and hit `http://localhost:3500/`
-
 ## Tech Stack Used
 
 - Node.js
 - Express.js
-- React.js
 - Postgresql
 - Socket.io
 - Docker
