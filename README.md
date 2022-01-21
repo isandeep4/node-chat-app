@@ -21,23 +21,6 @@ The above project is a simple web chat app, which can be used to chat all whoeve
 - Docker
 - Docker-compose
 
-## Tech Stack that will Included
-
-- Nginx
-- Elasticsearch
-- Redux
-
-## Deployment
-
-This App is deployed in AWS. Log-On to [http://3.17.135.197:3502](http://3.17.135.197:3502/) and two demo users are already added for testing. 1. user1@gmail.com 2. user2@gmail.com
-Having **password** as _pasword_ for both the accounts.
-
-## Features To Be added
-
-- Notification-in-app when new user pings
-- searching user
-- Chat history, list of users, even when there are not in online
-
 ## Known Issues
 
 - Mobile Responsive
